@@ -1,4 +1,4 @@
-# Instalasi
+# Installation
 Install npm to run:
 
 ```bash
